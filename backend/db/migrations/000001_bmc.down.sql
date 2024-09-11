@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS "Transaction";
+DROP TABLE IF EXISTS "User"
